@@ -1,0 +1,6 @@
+{
+  "name": "HERMES Rocket Launcher Simulator",
+  "description": "Professional offline simulator for solid propellant rocket motors, based on HERMES and OpenMotor principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
